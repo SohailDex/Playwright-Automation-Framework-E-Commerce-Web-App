@@ -5,9 +5,6 @@ Build a scalable Playwright automation framework using TypeScript, Page Object M
 SauceDemo
 URL: https://www.saucedemo.com
 
-Widely used in interviews ✔️
-Stable test data ✔️
-Industry-recognized demo app ✔️
 
 ⸻
 
